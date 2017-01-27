@@ -21,4 +21,5 @@ expected worst-case time complexity is O(log(N)); </p>
 expected worst-case space complexity is O(1). </p>
 Copyright 2009-2017 by Codility Limited. All Rights Reserved. Unauthorized copying, publication or disclosure prohibited.
 
+Problem : https://codility.com/programmers/lessons/1-iterations/binary_gap/
 solution : https://codility.com/demo/results/trainingAU4SC6-7FD/
