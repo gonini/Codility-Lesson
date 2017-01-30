@@ -7,14 +7,14 @@ Count the minimal number of jumps that the small frog must perform to reach its 
 
 Write a function:
 
-int solution(int X, int Y, int D); </p>
+    int solution(int X, int Y, int D); 
 that, given three integers X, Y and D, returns the minimal number of jumps from position X to a position equal to or greater than Y.
 
 For example, given:
 
-  X = 10 </p>
-  Y = 85 </p>
-  D = 30 </p>
+    X = 10 
+    Y = 85 
+    D = 30 
 the function should return 3, because the frog will be positioned as follows:
 
 after the first jump, at position 10 + 30 = 40 </p>
