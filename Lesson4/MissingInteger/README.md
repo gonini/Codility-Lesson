@@ -3,18 +3,19 @@ MissingInteger
 
 Write a function:
 
-int solution(vector<int> &A);
+    int solution(vector<int> &A);
 
 that, given a non-empty zero-indexed array A of N integers, returns the minimal positive integer (greater than 0) that does not occur in A.
 
 For example, given:
 
-  A[0] = 1 </p>
-  A[1] = 3 </p>
-  A[2] = 6 </p>
-  A[3] = 4 </p>
-  A[4] = 1 </p>
-  A[5] = 2 </p>
+    A[0] = 1 
+    A[1] = 3 
+    A[2] = 6 
+    A[3] = 4 
+    A[4] = 1 
+    A[5] = 2
+  
 the function should return 5.
 
 Assume that:
