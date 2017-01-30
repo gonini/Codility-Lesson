@@ -7,16 +7,16 @@ Your goal is to find that missing element.
 
 Write a function:
 
-int solution(vector<int> &A);
+    int solution(vector<int> &A);
 
 that, given a zero-indexed array A, returns the value of the missing element.
 
 For example, given array A such that:
 
-  A[0] = 2 </p>
-  A[1] = 3 </p>
-  A[2] = 1 </p>
-  A[3] = 5 </p>
+    A[0] = 2
+    A[1] = 3
+    A[2] = 1
+    A[3] = 5
 the function should return 4, as it is the missing element.
 
 Assume that:
