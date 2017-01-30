@@ -6,7 +6,7 @@ For example, the rotation of array A = [3, 8, 9, 7, 6] is [6, 3, 8, 9, 7]. The g
 
 Write a function: 
 
-vector<int> solution(vector<int> &A, int K); </p>
+    vector<int> solution(vector<int> &A, int K);
 that, given a zero-indexed array A consisting of N integers and an integer K, returns the array A rotated K times.
 
 For example, given array A = [3, 8, 9, 7, 6] and K = 3, the function should return [9, 7, 6, 3, 8].
