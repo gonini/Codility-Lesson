@@ -1,4 +1,4 @@
-CyclicRotation
+NumberSolitaire
 -------------
 A game for one player is played on a board consisting of N consecutive squares, numbered from 0 to N − 1. There is a number written on each square. A non-empty zero-indexed array A of N integers contains the numbers written on the squares. Moreover, some squares can be marked during the game.
 
